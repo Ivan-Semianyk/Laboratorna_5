@@ -1,0 +1,38 @@
+body{
+	background-color:green;
+	font-family: 'Hanalei Fill', cursive;
+}
+h1 {
+   text-align: center;
+   font-size: 24px;
+}
+
+p {
+font-size: 120%;
+}
+
+.a1{
+
+	color: pink;
+
+}
+
+.a2{
+	color: yellow;
+	
+}
+
+.a3{
+	color: grey;
+}
+
+.a4{
+	color: blue;
+}
+
+a:hover{
+    color: orange;
+}
+a:visited {
+    color:white;
+}
